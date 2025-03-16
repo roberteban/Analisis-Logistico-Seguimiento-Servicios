@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
   - 📸 `Dashboard.png` → Captura principal del dashboard.  
 - **📁 datos/** → Contiene el archivo de datos analizados.  
   - 📊 `Datos_de_servicio.xlsx` → Archivo con la información utilizada para el análisis.  
-- **📄 análisis_exploratorio.md** → Documento con el análisis inicial de los datos.  
+- **📄 Seguimiento_Servicios.md** → Documento con el análisis inicial de los datos.  
 
 ## ⚡ Proceso de Análisis  
 
@@ -29,9 +29,8 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
 
 ## 🛠 Herramientas Utilizadas  
 
-- **Power BI** → Para visualización y análisis de datos.  
+- **Power BI** → Para realizar análisis exploratorios, transformar datos de manera avanzada, y crear visualizaciones efectivas para el análisis de información.  
 - **Excel** → Para preprocesamiento de datos.  
-- **Python (opcional)** → Para análisis exploratorio y transformación avanzada de datos.  
 
 ## 📸 Captura del Dashboard  
 
