@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
   - 📸 `Dashboard.png` → Captura principal del dashboard.  
 - **📁 datos/** → Contiene el archivo de datos analizados.  
   - 📊 `Datos_de_servicio.xlsx` → Archivo con la información utilizada para el análisis.  
-- **📄 Seguimiento_Servicios.md** → Documento con el análisis inicial de los datos.  
+- **📄 Seguimiento-Servicios.md** → Documento con el análisis inicial de los datos.  
 
 ## ⚡ Proceso de Análisis  
 
