@@ -34,7 +34,7 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
 
 ## 📸 Captura del Dashboard  
 
-![Dashboard](imagenes/Dashboard.png)  
+![Dashboard](imagenes/Dashboard-Seguimiento-Servicios.jpg)  
 
 ## 📌 Autor  
 
