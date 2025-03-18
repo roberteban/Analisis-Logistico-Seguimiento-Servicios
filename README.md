@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
 ## 📂 Estructura del Proyecto  
 
 - **📁 imagenes/** → Carpeta con capturas de los paneles interactivos creados en Power BI.  
-  - 📸 `Dashboard.png` → Captura principal del dashboard.  
+  - 📸 `Dashboard-Seguimiento-Servicios.jpg` → Captura principal del dashboard.  
 - **📁 datos/** → Contiene el archivo de datos analizados.  
   - 📊 `Datos_de_servicio.xlsx` → Archivo con la información utilizada para el análisis.  
 - **📄 Seguimiento-Servicios.md** → Documento con el análisis inicial de los datos.  
