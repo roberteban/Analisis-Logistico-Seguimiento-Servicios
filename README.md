@@ -3,7 +3,6 @@
 Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Center** de una empresa utilizando **Power BI**. Se realizaron diversas transformaciones y visualizaciones para mejorar la interpretación de la información y la toma de decisiones.  
 
 ## 📂 Estructura del Proyecto  
-
 - **📁 imagenes/** → Carpeta con capturas de los paneles interactivos creados en Power BI.  
   - 📸 `Dashboard-Seguimiento-Servicios.jpg` → Captura principal del dashboard.  
 - **📁 datos/** → Contiene el archivo de datos analizados.  
@@ -11,7 +10,6 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
 - **📄 Seguimiento-Servicios.md** → Documento con el análisis inicial de los datos.  
 
 ## ⚡ Proceso de Análisis  
-
 1. **Importación de datos** desde archivos Excel.  
 2. **Transformación de datos**:  
    - Reemplazo de valores en la columna **"Área"**.  
@@ -28,15 +26,12 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
    - 📅 **Recuento de llamadas por día** (Gráfico de columnas agrupadas con Fecha e ID de llamada).  
 
 ## 🛠 Herramientas Utilizadas  
-
 - **Power BI** → Para realizar análisis exploratorios, transformar datos de manera avanzada, y crear visualizaciones efectivas para el análisis de información.  
 - **Excel** → Para preprocesamiento de datos.  
 
 ## 📸 Captura del Dashboard  
-
 ![Dashboard](imagenes/Dashboard-Seguimiento-Servicios.jpg)  
 
 ## 📌 Autor  
-
 **Roberto Castillo**  
 [GitHub](https://github.com/roberteban)  
