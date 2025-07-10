@@ -32,6 +32,11 @@ Este proyecto tiene como objetivo analizar y visualizar los datos del **Call Cen
 ## 📸 Captura del Dashboard  
 ![Dashboard](imagenes/Dashboard-Seguimiento-Servicios.jpg)  
 
-## 📌 Autor  
-**Roberto Castillo**  
-[GitHub](https://github.com/roberteban)
+---
+
+## Contacto
+
+[robertocastillocontact@gmail.com](mailto:robertocastillocontact@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/roberto-castillo-riquelme/)
+
+© 2025 Roberto Castillo
